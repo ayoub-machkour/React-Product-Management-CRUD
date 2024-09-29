@@ -22,7 +22,7 @@ This will open the application in your browser at `http://localhost:3000`.
 - **Produit.js**: A component that manages the product listing, editing, and deletion.
 - **App.css** : Contains styles for the app, using Bootstrap for layout and components.
 
-##Screenshot :
+## Screenshot :
 
 ![Product Management UI](images/react1.png)
 ![Product Management UI](images/react2.png)
